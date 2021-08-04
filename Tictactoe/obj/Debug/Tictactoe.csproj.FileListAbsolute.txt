@@ -1,0 +1,15 @@
+D:\Projeler\Tictactoe\Tictactoe\bin\Debug\Tictactoe.exe.config
+D:\Projeler\Tictactoe\Tictactoe\bin\Debug\Tictactoe.exe
+D:\Projeler\Tictactoe\Tictactoe\bin\Debug\Tictactoe.pdb
+D:\Projeler\Tictactoe\Tictactoe\obj\Debug\Tictactoe.csprojAssemblyReference.cache
+D:\Projeler\Tictactoe\Tictactoe\obj\Debug\MainWindow.g.cs
+D:\Projeler\Tictactoe\Tictactoe\obj\Debug\App.g.cs
+D:\Projeler\Tictactoe\Tictactoe\obj\Debug\Tictactoe_MarkupCompile.cache
+D:\Projeler\Tictactoe\Tictactoe\obj\Debug\Tictactoe_MarkupCompile.lref
+D:\Projeler\Tictactoe\Tictactoe\obj\Debug\MainWindow.baml
+D:\Projeler\Tictactoe\Tictactoe\obj\Debug\Tictactoe.g.resources
+D:\Projeler\Tictactoe\Tictactoe\obj\Debug\Tictactoe.Properties.Resources.resources
+D:\Projeler\Tictactoe\Tictactoe\obj\Debug\Tictactoe.csproj.GenerateResource.cache
+D:\Projeler\Tictactoe\Tictactoe\obj\Debug\Tictactoe.csproj.CoreCompileInputs.cache
+D:\Projeler\Tictactoe\Tictactoe\obj\Debug\Tictactoe.exe
+D:\Projeler\Tictactoe\Tictactoe\obj\Debug\Tictactoe.pdb
